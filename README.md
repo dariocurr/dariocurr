@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dariocurr.
 - :books: I'm a graduated computer scientist
-- 👀 I’m interested in Big Data and Cloud Computing
+- 👀 I’m interested in Big Data, Cloud Computing and Artificial Intelligence
 - :memo: See my [curriculum vitae](https://dariocurr.github.io/)
 - 📫 Reach me by [email](mailto:dariocurr@gmail.com)
 
