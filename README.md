@@ -5,10 +5,12 @@
 -   👀 I’m interested in DevOps, Big Data, Cloud Computing and AI
 -   :memo: Checkout my [curriculum vitae](https://dariocurr.github.io/)
 
+<br>
 Code contributor of:
-- [milvus-io/milvus](https://github.com/milvus-io/milvus)
-- [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin)
-- [BlueBrain/BluePyEfe](https://github.com/BlueBrain/BluePyEfe)
+
+-   [milvus-io/milvus](https://github.com/milvus-io/milvus)
+-   [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin)
+-   [BlueBrain/BluePyEfe](https://github.com/BlueBrain/BluePyEfe)
 
 ## Connect with me
 
