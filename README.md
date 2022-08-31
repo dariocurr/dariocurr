@@ -6,6 +6,7 @@
 -   :memo: Checkout my [curriculum vitae](https://dariocurr.github.io/)
 
 <br>
+
 Code contributor of:
 
 -   [milvus-io/milvus](https://github.com/milvus-io/milvus)
