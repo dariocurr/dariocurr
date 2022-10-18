@@ -7,6 +7,7 @@
 
 ## Code contributions
 
+-   [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)
 -   [milvus-io/milvus](https://github.com/milvus-io/milvus)
 -   [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin)
 -   [BlueBrain/BluePyEfe](https://github.com/BlueBrain/BluePyEfe)
