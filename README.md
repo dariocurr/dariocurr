@@ -6,6 +6,7 @@
 -   :memo: Checkout my [curriculum vitae](https://dariocurr.github.io/)
 
 ## Code contributions
+-   [joke2k/faker](https://github.com/joke2k/faker)
 -   [conda/conda](https://github.com/conda/conda)
 -   [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)
 -   [milvus-io/milvus](https://github.com/milvus-io/milvus)
