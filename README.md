@@ -5,7 +5,7 @@
 -   👀 I’m interested in DevOps, Big Data, Cloud Computing and AI
 -   :memo: Checkout my [curriculum vitae](https://dariocurr.github.io/)
 
-## Code
+## Code contributions
 
 ### Creator
 -   [dariocurr/pytest-summary](https://github.com/dariocurr/pytest-summary)
