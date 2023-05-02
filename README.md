@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @dariocurr
 
 -   :books: I'm a graduated computer scientist
--   :office: I'm currently working at [BuildNN](https://www.buildnn.com/index_en.html)
+-   :office: I'm currently working at [hiop](https://hiop.io/)
 -   👀 I’m interested in DevOps, Big Data, Cloud Computing and AI
 -   :memo: Checkout my [curriculum vitae](https://dariocurr.github.io/)
 
