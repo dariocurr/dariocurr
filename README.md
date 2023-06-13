@@ -12,6 +12,7 @@
 -   [dariocurr/devcontainer-???](https://github.com/dariocurr?tab=repositories&q=devcontainer) (feel free to propose more!)
 
 ### Contributor:
+-   [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
 -   [joke2k/faker](https://github.com/joke2k/faker)
 -   [conda/conda](https://github.com/conda/conda)
 -   [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)
