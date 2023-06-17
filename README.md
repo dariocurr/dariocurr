@@ -8,17 +8,17 @@
 ## Code contributions
 
 ### Creator
--   [dariocurr/pytest-summary](https://github.com/dariocurr/pytest-summary)
 -   [dariocurr/devcontainer-???](https://github.com/dariocurr?tab=repositories&q=devcontainer) (feel free to propose more!)
+-   [dariocurr/pytest-summary](https://github.com/dariocurr/pytest-summary)
 
 ### Contributor:
--   [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
--   [joke2k/faker](https://github.com/joke2k/faker)
--   [conda/conda](https://github.com/conda/conda)
--   [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)
--   [milvus-io/milvus](https://github.com/milvus-io/milvus)
 -   [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin)
 -   [BlueBrain/BluePyEfe](https://github.com/BlueBrain/BluePyEfe)
+-   [conda/conda](https://github.com/conda/conda)
+-   [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
+-   [joke2k/faker](https://github.com/joke2k/faker)
+-   [milvus-io/milvus](https://github.com/milvus-io/milvus)
+-   [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)
 
 ## Connect with me
 
