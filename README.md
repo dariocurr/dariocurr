@@ -12,6 +12,7 @@
 -   [dariocurr/pytest-summary](https://github.com/dariocurr/pytest-summary)
 
 ### Contributor:
+-   [actions/setup-python](https://github.com/actions/setup-python)
 -   [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin)
 -   [BlueBrain/BluePyEfe](https://github.com/BlueBrain/BluePyEfe)
 -   [conda/conda](https://github.com/conda/conda)
