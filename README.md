@@ -5,7 +5,7 @@
 -   👀 I’m interested in DevOps, Big Data, Cloud Computing and AI
 -   :memo: Checkout my [curriculum vitae](https://dariocurr.github.io/)
 
-## Code contributions
+## Main contributions
 
 ### Creator
 -   [dariocurr/devcontainer-???](https://github.com/dariocurr?tab=repositories&q=devcontainer) (feel free to propose more!)
