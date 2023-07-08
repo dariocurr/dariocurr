@@ -20,9 +20,3 @@
 -   [joke2k/faker](https://github.com/joke2k/faker)
 -   [milvus-io/milvus](https://github.com/milvus-io/milvus)
 -   [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)
-
-## Connect with me
-
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariocurr@gmail.com)
-[![linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-curreri-525365178/)
-[![medium profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://dariocurr.medium.com/)
