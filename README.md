@@ -9,6 +9,7 @@
 
 ### Creator
 -   [dariocurr/devcontainer-???](https://github.com/dariocurr?tab=repositories&q=devcontainer) (feel free to propose more!)
+-   [dariocurr/env-settings](https://github.com/dariocurr/env-settings)
 -   [dariocurr/pytest-summary](https://github.com/dariocurr/pytest-summary)
 
 ### Contributor:
