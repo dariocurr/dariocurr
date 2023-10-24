@@ -20,4 +20,5 @@
 -   [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
 -   [joke2k/faker](https://github.com/joke2k/faker)
 -   [milvus-io/milvus](https://github.com/milvus-io/milvus)
+-   [psf/black](https://github.com/psf/black)
 -   [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n)
