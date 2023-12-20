@@ -5,6 +5,12 @@
 -   👀 I’m interested in DevOps, Big Data, Cloud Computing and AI
 -   :memo: Checkout my [curriculum vitae](https://dariocurr.github.io/)
 
+## Certifications
+
+- [AWS Cloud Practitioner](https://www.credly.com/badges/33614ca6-2f0d-456b-87e9-bf8b8591cbf8/public_url)
+- [AWS Developer Associate](https://www.credly.com/badges/e9b6c64c-2175-4345-950b-6331fd88af43/public_url)
+- [GCP Cloud Digital Leader](https://www.credential.net/1cd9c397-58b2-4d5d-9755-7277952de891)
+
 ## Main contributions
 
 ### Creator
