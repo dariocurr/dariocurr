@@ -11,7 +11,7 @@
 - [AWS Developer Associate](https://www.credly.com/badges/e9b6c64c-2175-4345-950b-6331fd88af43/public_url)
 - [GCP Cloud Digital Leader](https://www.credential.net/1cd9c397-58b2-4d5d-9755-7277952de891)
 
-## Main contributions
+## Contributions
 
 ### Creator
 -   [dariocurr/devcontainer-???](https://github.com/dariocurr?tab=repositories&q=devcontainer) (feel free to propose more!)
