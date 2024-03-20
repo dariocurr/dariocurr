@@ -11,6 +11,7 @@
 - [AWS Developer Associate](https://www.credly.com/badges/e9b6c64c-2175-4345-950b-6331fd88af43/public_url)
 - [GCP Cloud Digital Leader](https://www.credential.net/1cd9c397-58b2-4d5d-9755-7277952de891)
 - [GitHub Foundations](https://www.credly.com/badges/0f59d53a-1ecb-4f6f-8a84-96fa3cb55965/public_url)
+- [GitHub Actions](https://www.credly.com/badges/6da40853-2bc6-4738-887e-8710a10e7a29/public_url)
 
 ## Contributions
 
