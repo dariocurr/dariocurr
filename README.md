@@ -12,6 +12,7 @@
 - [GCP Cloud Digital Leader](https://www.credly.com/badges/0f158c45-adb0-4ac9-9d5f-0039649e4808/public_url)
 - [GitHub Foundations](https://www.credly.com/badges/0f59d53a-1ecb-4f6f-8a84-96fa3cb55965/public_url)
 - [GitHub Actions](https://www.credly.com/badges/6da40853-2bc6-4738-887e-8710a10e7a29/public_url)
+- [GitHub Advanced Security](https://www.credly.com/badges/b3c3ae21-61a9-4519-85d6-29a3bb8c443a/public_url)
 
 ## Contributions
 
