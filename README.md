@@ -22,6 +22,7 @@
 -   [dariocurr/pytest-summary](https://github.com/dariocurr/pytest-summary)
 
 ### Contributor:
+-   [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
 -   [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain)
 -   [github/docs](https://github.com/github/docs)
 -   [actions/setup-python](https://github.com/actions/setup-python)
