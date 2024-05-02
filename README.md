@@ -22,6 +22,7 @@
 -   [dariocurr/pytest-summary](https://github.com/dariocurr/pytest-summary)
 
 ### Contributor:
+-   [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain)
 -   [github/docs](https://github.com/github/docs)
 -   [actions/setup-python](https://github.com/actions/setup-python)
 -   [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin)
