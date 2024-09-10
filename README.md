@@ -21,6 +21,7 @@
 
 ## Stack
 
+&nbsp;
 ![shell](./assets/shell.svg)
 &nbsp;&nbsp;&nbsp;
 ![git](./assets/git.svg)
