@@ -1,5 +1,6 @@
 <h1>
 👋 Hi, I’m @dariocurr
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dariocurr">
     <img align="right" alt="linkedin" src="./assets/linkedin.svg">
 </a>
