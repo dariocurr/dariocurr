@@ -1,5 +1,5 @@
 <h1>
-👋 Hi, I’m @dariocurr
+👋 hi, I’m @dariocurr
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dariocurr">
     <img align="right" alt="linkedin" src="./assets/linkedin.svg">
@@ -14,13 +14,13 @@
 </a>
 </h1>
 
-🎓&nbsp; Graduated computer scientist
+🎓&nbsp; graduated computer scientist
 
-🏢&nbsp; Currently working at [hiop](https://hiop.io/)
+🏢&nbsp; currently working at [hiop](https://hiop.io/)
 
-👀&nbsp; Interested in DevOps, Big Data, Cloud Computing and AI
+👀&nbsp; interested in devops, big data, cloud computing and AI
 
-## Stack
+## stack
 
 &nbsp;
 ![shell](./assets/shell.svg)
@@ -43,16 +43,16 @@
 &nbsp;&nbsp;&nbsp;
 ![database](./assets/database.svg)
 
-## Projects
+## projects
 
-### Creator
+### creator
 
 [![dariocurr/env-settings](https://github-readme-stats.vercel.app/api/pin/?username=dariocurr&repo=env-settings&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/env-settings)
 [![dariocurr/pytest-summary](https://github-readme-stats.vercel.app/api/pin/?username=dariocurr&repo=pytest-summary&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/pytest-summary)
 [![dariocurr/pa-museum-tbot](https://github-readme-stats.vercel.app/api/pin/?username=dariocurr&repo=pa-museum-tbot&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/pa-museum-tbot)
 [![dariocurr/dl_project](https://github-readme-stats.vercel.app/api/pin/?username=dariocurr&repo=dl_project&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/dl_project)
 
-### Contributor
+### contributor
 
 [![apache/arrow-rs](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=arrow-rs&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/apache/arrow-rs)
 [![psf/black](https://github-readme-stats.vercel.app/api/pin/?username=psf&repo=black&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/psf/black)
@@ -65,7 +65,7 @@
 
 <details>
 
-  <summary>Other</summary>
+  <summary>other</summary>
 
   [![cookiecutter/cookiecutter](https://github-readme-stats.vercel.app/api/pin/?username=cookiecutter&repo=cookiecutter&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/cookiecutter/cookiecutter)
   [![github/docs](https://github-readme-stats.vercel.app/api/pin/?username=github&repo=docs&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/github/docs)
@@ -76,7 +76,7 @@
 
 </details>
 
-## Certifications
+## certifications
 
 [<img src="https://bestr.it/filemanager/show/8f99bc52-e576-4ecf-9dbc-095bd38d36f4.png" width="150" height="150"/>](https://bestr.it/verify/EJ2XAFDPBL)
 &nbsp;&nbsp;&nbsp;
@@ -92,9 +92,9 @@
 &nbsp;&nbsp;&nbsp;
 [<img src="https://images.credly.com/size/680x680/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="150" height="150"/>](https://www.credly.com/badges/b3c3ae21-61a9-4519-85d6-29a3bb8c443a/public_url)
 
-## Stats
+## stats
 
 ![dariocurr's github stats](https://github-readme-stats.vercel.app/api?username=dariocurr&show_icons=true&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&hide_title=true&hide_rank=true)
 &nbsp;&nbsp;&nbsp;
 ![dariocurr's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dariocurr&hide=html&text&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent)
-> ⚠️ These stats are calculated only for content in public repositories
+> ⚠️ these stats are calculated only for content in public repositories
