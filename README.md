@@ -57,11 +57,11 @@
 ### contributor
 
 [![apache/arrow-rs](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=arrow-rs&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/apache/arrow-rs)
-[![psf/black](https://github-readme-stats.vercel.app/api/pin/?username=psf&repo=black&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/psf/black)
 [![conda/conda](https://github-readme-stats.vercel.app/api/pin/?username=conda&repo=conda&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/conda/conda)
-[![milvus-io/milvus](https://github-readme-stats.vercel.app/api/pin/?username=milvus-io&repo=milvus&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/milvus-io/milvus)
+[![apache/datafusion](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=datafusion&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/apache/datafusion)
 [![joke2k/faker](https://github-readme-stats.vercel.app/api/pin/?username=joke2k&repo=faker&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/joke2k/faker)
 [![PyO3/maturin-action](https://github-readme-stats.vercel.app/api/pin/?username=PyO3&repo=maturin-action&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/PyO3/maturin-action)
+[![milvus-io/milvus](https://github-readme-stats.vercel.app/api/pin/?username=milvus-io&repo=milvus&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/milvus-io/milvus)
 [![dtolnay/rust-toolchain](https://github-readme-stats.vercel.app/api/pin/?username=dtolnay&repo=rust-toolchain&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dtolnay/rust-toolchain)
 [![actions/setup-python](https://github-readme-stats.vercel.app/api/pin/?username=actions&repo=setup-python&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/actions/setup-python)
 
@@ -69,6 +69,7 @@
 
   <summary>other</summary>
 
+  [![psf/black](https://github-readme-stats.vercel.app/api/pin/?username=psf&repo=black&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/psf/black)
   [![cookiecutter/cookiecutter](https://github-readme-stats.vercel.app/api/pin/?username=cookiecutter&repo=cookiecutter&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/cookiecutter/cookiecutter)
   [![github/docs](https://github-readme-stats.vercel.app/api/pin/?username=github&repo=docs&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/github/docs)
   [![backstage/mkdocs-monorepo-plugin](https://github-readme-stats.vercel.app/api/pin/?username=backstage&repo=mkdocs-monorepo-plugin&theme=transparent&show_owner=true&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/backstage/mkdocs-monorepo-plugin)
