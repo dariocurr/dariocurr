@@ -97,7 +97,6 @@
 
 ## stats
 
-![dariocurr's github stats](https://github-readme-stats-red-six-54.vercel.app/api?username=dariocurr&show_icons=true&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&hide_title=true&hide_rank=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![dariocurr's github stats](https://github-readme-stats-red-six-54.vercel.app/api?username=dariocurr&show_icons=true&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&hide_title=true&hide_rank=true)
 &nbsp;&nbsp;&nbsp;
-![dariocurr's languages stats](https://github-readme-stats-red-six-54.vercel.app/api/top-langs/?username=dariocurr&hide=html&text&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-> ⚠️ these stats are calculated only for content in public repositories
+![dariocurr's languages stats](https://github-readme-stats-red-six-54.vercel.app/api/top-langs/?username=dariocurr&hide=html&text&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent)
