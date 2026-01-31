@@ -47,12 +47,12 @@
 
 ### creator / mantainer
 
+[![dariocurr/dynamodb-crud](https://github-readme-stats-red-six-54.vercel.app/api/pin/?username=dariocurr&repo=dynamodb-crud&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/dynamodb-crud)
 [![dariocurr/envoy-grpc-ext-proc](https://github-readme-stats-red-six-54.vercel.app/api/pin/?username=dariocurr&repo=envoy-grpc-ext-proc&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/envoy-grpc-ext-proc)
 [![datafusion-contrib/datafusion-functions-extra](https://github-readme-stats-red-six-54.vercel.app/api/pin/?username=datafusion-contrib&repo=datafusion-functions-extra&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/datafusion-contrib/datafusion-functions-extra)
 [![dariocurr/env-settings](https://github-readme-stats-red-six-54.vercel.app/api/pin/?username=dariocurr&repo=env-settings&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/env-settings)
 [![dariocurr/pytest-summary](https://github-readme-stats-red-six-54.vercel.app/api/pin/?username=dariocurr&repo=pytest-summary&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/pytest-summary)
 [![dariocurr/checkout-called](https://github-readme-stats-red-six-54.vercel.app/api/pin/?username=dariocurr&repo=checkout-called&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/checkout-called)
-[![dariocurr/dl_project](https://github-readme-stats-red-six-54.vercel.app/api/pin/?username=dariocurr&repo=dl_project&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/dl_project)
 
 ### contributor
 
