@@ -85,8 +85,6 @@
 
 ## certifications
 
-[<img src="https://bestr.it/filemanager/show/8f99bc52-e576-4ecf-9dbc-095bd38d36f4.png" width="150" height="150"/>](https://bestr.it/verify/EJ2XAFDPBL)
-&nbsp;&nbsp;&nbsp;
 [<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150"/>](https://www.credly.com/badges/33614ca6-2f0d-456b-87e9-bf8b8591cbf8/public_url)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" height="150"/>](https://www.credly.com/badges/e9b6c64c-2175-4345-950b-6331fd88af43/public_url)
