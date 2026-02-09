@@ -29,8 +29,6 @@
 &nbsp;&nbsp;&nbsp;
 ![docker](./assets/docker.svg)
 &nbsp;&nbsp;&nbsp;
-![cloud](./assets/cloud.svg)
-&nbsp;&nbsp;&nbsp;
 ![rust](./assets/rust.svg)
 &nbsp;&nbsp;&nbsp;
 ![python](./assets/python.svg)
@@ -42,10 +40,16 @@
 ![node](./assets/node.svg)
 &nbsp;&nbsp;&nbsp;
 ![database](./assets/database.svg)
+&nbsp;&nbsp;&nbsp;
+![cloud](./assets/cloud.svg)
+&nbsp;&nbsp;&nbsp;
+![terraform](./assets/terraform.svg)
+&nbsp;&nbsp;&nbsp;
+![pulumi](./assets/pulumi.svg)
 
 ## projects
 
-### creator / mantainer
+### creator / maintainer
 
 [![dariocurr/dynamodb-crud](https://github-readme-stats-red-six-54.vercel.app/api/pin/?username=dariocurr&repo=dynamodb-crud&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/dynamodb-crud)
 [![dariocurr/envoy-grpc-ext-proc](https://github-readme-stats-red-six-54.vercel.app/api/pin/?username=dariocurr&repo=envoy-grpc-ext-proc&theme=transparent&title_color=f59d62&icon_color=f59d62&text_color=aaaaaa&hide_border=true&description_lines_count=3)](https://github.com/dariocurr/envoy-grpc-ext-proc)
