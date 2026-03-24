@@ -14,11 +14,7 @@
 </a>
 </h1>
 
-🎓&nbsp; graduated computer scientist
-
 🏢&nbsp; currently working at [hiop](https://hiop.io/)
-
-👀&nbsp; interested in devops, big data, cloud computing and AI
 
 ## stack
 
