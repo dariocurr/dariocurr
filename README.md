@@ -16,6 +16,8 @@
 
 🏢&nbsp; currently working at [hiop](https://hiop.io/)
 
+🦀&nbsp; organizer of [Rust Language Milano](https://www.meetup.com/rust-language-milano/)
+
 ## stack
 
 &nbsp;
