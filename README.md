@@ -14,7 +14,7 @@
 </a>
 </h1>
 
-🏢&nbsp; currently working at [lexroom](https://lexroom.ai/)
+🏢&nbsp; currently working at [lexroom](https://lexroom.ai/en)
 
 🦀&nbsp; organizer of [Rust Language Milan](https://www.meetup.com/rust-language-milan/)
 
